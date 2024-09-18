@@ -11,3 +11,9 @@ VMware PowerCLI installed
 Appropriate permissions to deploy VMs in the target VMware environment
 
 ![Screenshot (16)](https://github.com/user-attachments/assets/cb38a434-0cbf-49a8-a00e-af6a8dd6f543)
+
+Contributing
+Feel free to submit issues or pull requests if you have suggestions for improvements or new features!
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
