@@ -9,3 +9,5 @@ Logging: Generates logs for tracking deployment activities.
 Prerequisites
 VMware PowerCLI installed
 Appropriate permissions to deploy VMs in the target VMware environment
+
+![Screenshot (16)](https://github.com/user-attachments/assets/cb38a434-0cbf-49a8-a00e-af6a8dd6f543)
