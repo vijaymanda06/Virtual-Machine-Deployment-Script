@@ -12,8 +12,8 @@ Appropriate permissions to deploy VMs in the target VMware environment
 
 ![Screenshot (16)](https://github.com/user-attachments/assets/cb38a434-0cbf-49a8-a00e-af6a8dd6f543)
 
-Contributing
-Feel free to submit issues or pull requests if you have suggestions for improvements or new features!
+![Screenshot (18)](https://github.com/user-attachments/assets/6c5da702-5d53-4d1a-8b22-4065b5d6d58a)
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+![Screenshot (19)](https://github.com/user-attachments/assets/f7cf0d9e-397b-44a4-bc80-887e8c8c4a33)
+
+![Screenshot (22)](https://github.com/user-attachments/assets/36afa98f-f801-48a8-818f-e2a7998fb618)
